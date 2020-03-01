@@ -1,3 +1,23 @@
+## Notes from developer
+
+This project uses the following
+
+- Router
+- CSS Modules
+
+THINGS I WOULD LIKE TO ADD SOON...
+
+- Lazy loading travel pictures
+- Hooks
+- A Form
+- Something that actually needs state...
+- Context...but maybe Redux
+- Maybe React springs and some lovely animation things
+- Maybe Lazy loading individual tracks that are hosted somewhere that are referenced in a DB somehwere?
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
